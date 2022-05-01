@@ -13,7 +13,7 @@ class MainWindow(QWidget):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("CALCULADORA")
+        self.setWindowTitle("CALLLLCULATOR")
         self.setFixedSize(400, 400)
         self.main_layout = QVBoxLayout()
         self.main_layout.setAlignment(Qt.AlignCenter)
